@@ -98,7 +98,7 @@ int* InverseIndx(int d){
 }
 
 /**
- * @brief Carries out the required activies of the ICP lab_08
+ * @brief Carries out the required activities of the ICP lab_08
  * 
  * @param row 
  * @param numberOfItemsToShow 
